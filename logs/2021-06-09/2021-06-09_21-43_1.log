@@ -1,0 +1,44 @@
+2021-06-09 21:39:26 [pool-2-thread-2] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 1 finished processing van 6
+2021-06-09 21:39:26 [pool-2-thread-4] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 2 started processing van 4
+2021-06-09 21:39:26 [pool-2-thread-4] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 2 finished processing van 4
+2021-06-09 21:39:26 [pool-2-thread-3] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 3 started processing van 2
+2021-06-09 21:39:26 [pool-2-thread-3] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 3 finished processing van 2
+2021-06-09 21:39:26 [pool-2-thread-1] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 4 started processing van 5
+2021-06-09 21:39:26 [pool-2-thread-1] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 4 finished processing van 5
+2021-06-09 21:39:26 [pool-2-thread-2] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 1 started processing van 3
+2021-06-09 21:39:26 [pool-2-thread-2] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 1 finished processing van 3
+2021-06-09 21:39:26 [pool-2-thread-4] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 2 started processing van 1
+2021-06-09 21:39:26 [pool-2-thread-4] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 2 finished processing van 1
+2021-06-09 21:41:43 [main] INFO  org.epam.multithreadingtask.factory.VanFactory- 1
+2021-06-09 21:41:43 [main] INFO  org.epam.multithreadingtask.factory.VanFactory- 2
+2021-06-09 21:41:43 [main] INFO  org.epam.multithreadingtask.factory.VanFactory- 1
+2021-06-09 21:41:43 [main] INFO  org.epam.multithreadingtask.factory.VanFactory- 1
+2021-06-09 21:41:43 [main] INFO  org.epam.multithreadingtask.factory.VanFactory- 1
+2021-06-09 21:41:43 [main] INFO  org.epam.multithreadingtask.factory.VanFactory- 1
+2021-06-09 21:41:43 [main] INFO  org.epam.multithreadingtask.Main- 4
+2021-06-09 21:41:43 [pool-2-thread-1] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 1 started processing van 5
+2021-06-09 21:41:43 [pool-2-thread-1] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 1 finished processing van 5
+2021-06-09 21:41:43 [pool-2-thread-3] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 3 started processing van 2
+2021-06-09 21:41:43 [pool-2-thread-3] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 3 finished processing van 2
+2021-06-09 21:41:43 [pool-2-thread-3] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 3 started processing van 1
+2021-06-09 21:41:43 [pool-2-thread-3] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 3 finished processing van 1
+2021-06-09 21:41:43 [pool-2-thread-4] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 2 started processing van 4
+2021-06-09 21:41:43 [pool-2-thread-4] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 2 finished processing van 4
+2021-06-09 21:41:43 [pool-2-thread-2] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 4 started processing van 6
+2021-06-09 21:41:43 [pool-2-thread-2] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 4 finished processing van 6
+2021-06-09 21:41:43 [pool-2-thread-1] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 1 started processing van 3
+2021-06-09 21:41:43 [pool-2-thread-1] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 1 finished processing van 3
+2021-06-09 21:42:23 [main] INFO  org.epam.multithreadingtask.Main- 4
+2021-06-09 21:42:23 [pool-2-thread-1] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 1 started processing van 5
+2021-06-09 21:42:23 [pool-2-thread-1] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 1 finished processing van 5
+2021-06-09 21:42:23 [pool-2-thread-4] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 4 started processing van 4
+2021-06-09 21:42:23 [pool-2-thread-4] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 4 finished processing van 4
+2021-06-09 21:42:23 [pool-2-thread-3] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 3 started processing van 2
+2021-06-09 21:42:23 [pool-2-thread-3] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 3 finished processing van 2
+2021-06-09 21:42:23 [pool-2-thread-2] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 2 started processing van 6
+2021-06-09 21:42:23 [pool-2-thread-2] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 2 finished processing van 6
+2021-06-09 21:42:23 [pool-2-thread-1] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 1 started processing van 3
+2021-06-09 21:42:23 [pool-2-thread-1] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 1 finished processing van 3
+2021-06-09 21:42:23 [pool-2-thread-4] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 4 started processing van 1
+2021-06-09 21:42:23 [pool-2-thread-4] INFO  org.epam.multithreadingtask.entity.Terminal- Terminal 4 finished processing van 1
+2021-06-09 21:43:45 [main] INFO  org.epam.multithreadingtask.Main- 4
